@@ -1,0 +1,6 @@
+path: '/content/drive/MyDrive/craters'
+train: train/images
+val: train/images
+
+names:
+  0: craters
